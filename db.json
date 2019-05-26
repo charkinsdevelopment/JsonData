@@ -1,0 +1,12 @@
+{
+  "vehicles": [
+    {
+      "id": 1,
+      "name": "fake vehicle",
+      "year": "2018"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
