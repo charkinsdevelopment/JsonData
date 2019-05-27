@@ -9,12 +9,12 @@
   "food":[
     {
       "id": 1,
-      "category": 'breakfast',
+      "category": "breakfast",
       "meals": [
-        {name: "food 1", description: "test description", price: "9.99"}
+        {"name": "food 1", "description": "test description", "price": "9.99"}
       ],
       "drinks": [
-        {name: "coffee", description: "a cup of coffee.", price: "1.00"}
+        {"name": "coffee", "description": "a cup of coffee.", "price": "1.00"}
       ]
     }
   ]
